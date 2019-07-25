@@ -1,0 +1,12 @@
+.textred {color:red;}
+.textgreen {color:green;}
+.textitalic {font-style: italic;}
+#txtgras {font-weight: bold;}
+#txtcentregras {text-align: center;
+  font-weight: bold;}
+.textarial{font-family: Arial;}
+.fondbleu {background-color: blue;}
+.fondimg {background-image: url('https://www.belightsoft.com/products/imagetricks/img/core-image-filters@2x.jpg');}
+.margeleft {margin-left: 10px;}
+.fondBmargeExt {padding-left: 10px;
+background-color: blue;}
